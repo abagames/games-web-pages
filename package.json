@@ -1,0 +1,14 @@
+{
+  "name": "games-web-pages",
+  "version": "1.0.0",
+  "description": "ABA Games web pages",
+  "scripts": {
+    "watch": "light-server -s docs -w \"docs/**/* # # reload\"",
+    "generate": "node ./src/generator.js"
+  },
+  "author": "abagames",
+  "license": "MIT",
+  "devDependencies": {
+    "light-server": "^2.9.1"
+  }
+}
