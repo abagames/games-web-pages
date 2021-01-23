@@ -35,6 +35,7 @@ const platformNames = {
   piece: "P/ECE",
   palm: "Palm",
   java: "Java",
+  pc_98: "PC-9801",
   i_appli: "iAppli",
   zaurus: "Zaurus",
   pocket_cosmo: "PocketCosmo",
