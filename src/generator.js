@@ -36,10 +36,13 @@ const platformNames = {
   palm: "Palm",
   java: "Java",
   pc_98: "PC-9801",
+  petitcom: "Petitcom",
+  unity: "Unity",
   i_appli: "iAppli",
-  zaurus: "Zaurus",
   pocket_cosmo: "PocketCosmo",
   ruputer: "Ruputer",
+  zaurus: "Zaurus",
+  pc_60: "PC-6001",
 };
 
 /** @type { {title: string, imageUrl: string, linkUrl: string, linkType: string, platformName: string}[]} */
@@ -122,6 +125,22 @@ function getCards(list) {
  * @return {string}
  */
 function getCard(title, imageUrl, linkUrl, linkType, platformName) {
+  const buttonHtml =
+    linkUrl === "undefined"
+      ? `
+          <a
+            href="${linkUrl}"
+            class="btn btn-secondary disabled my-2"
+            >No Detail</a
+          >
+      `
+      : `
+          <a
+            href="${linkUrl}"
+            class="btn btn-primary my-2"
+            >${LinkTypeNames[linkType]}</a
+          >
+`;
   const imgHtml =
     imageUrl === "undefined"
       ? `
@@ -165,11 +184,7 @@ function getCard(title, imageUrl, linkUrl, linkType, platformName) {
         class="d-flex justify-content-between align-items-center"
       >
         <div class="btn-group">
-          <a
-            href="${linkUrl}"
-            class="btn btn-primary my-2"
-            >${LinkTypeNames[linkType]}</a
-          >
+          ${buttonHtml}
         </div>
         <small class="text-muted">${platformNames[platformName]}</small>
       </div>
