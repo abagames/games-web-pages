@@ -153,65 +153,69 @@ vault,http://www.asahi-net.or.jp/~cs8k-cyu/img/vault.jpg,http://wa.zozuar.org/co
 typingcommand,http://www.asahi-net.or.jp/~cs8k-cyu/img/typingcommand.jpg,http://wa.zozuar.org/code.php?c=j2kt,detail,flash
 rgrid,http://www.asahi-net.or.jp/~cs8k-cyu/img/rgrid.jpg,http://wa.zozuar.org/code.php?c=v0kJ,detail,flash
 carpieces,http://www.asahi-net.or.jp/~cs8k-cyu/img/carpieces.jpg,http://wa.zozuar.org/code.php?c=3A4Y,detail,flash
-HOLE ESCAPE,undefined,http://fl.corge.net/c/7riP,detail,flash
-I'M FRONTLINE,undefined,http://fl.corge.net/c/yCOI,detail,flash
-BALLOON TARGET,undefined,http://fl.corge.net/c/ock7,detail,flash
-LaserShield,undefined,http://fl.corge.net/c/db8G,detail,flash
-FRIENDLY FIRE,undefined,http://fl.corge.net/c/hjPh,detail,flash
-SEA VS ISLAND,undefined,http://fl.corge.net/c/aRX0,detail,flash
-GROWN RACKETS,undefined,http://fl.corge.net/c/3IhI,detail,flash
-undermine,undefined,http://fl.corge.net/c/bv3w,detail,flash
-PLANET MOON,undefined,http://fl.corge.net/c/jntT,detail,flash
-LASER GRAZE,undefined,http://fl.corge.net/c/oIg8,detail,flash
-CHARGE SEVEN,undefined,http://fl.corge.net/c/faFsE,detail,flash
-ocwalls,undefined,http://fl.corge.net/c/tB4v,detail,flash
-boxinbox,undefined,http://fl.corge.net/c/2D7T,detail,flash
-boxed,undefined,http://fl.corge.net/c/cOX2,detail,flash
-LeftRedRightBlue,undefined,http://fl.corge.net/c/gb4z,detail,flash
-CAR GATE,undefined,http://fl.corge.net/c/lHQC,detail,flash
-astball,undefined,http://fl.corge.net/c/5fyy,detail,flash
-WallAll,undefined,http://fl.corge.net/c/3bzD,detail,flash
-WASD THRUST,undefined,http://fl.corge.net/c/cUIn,detail,flash
-TANK FIRES BLOCK,undefined,http://fl.corge.net/c/dxL8,detail,flash
+HOLE ESCAPE,http://www.asahi-net.or.jp/~cs8k-cyu/img/hole_escape.jpg,http://wa.zozuar.org/code.php?c=7riP,detail,flash
+I'M FRONTLINE,http://www.asahi-net.or.jp/~cs8k-cyu/img/im_frontline.jpg,http://wa.zozuar.org/code.php?c=yCOI,detail,flash
+BALLOON TARGET,http://www.asahi-net.or.jp/~cs8k-cyu/img/balloon_target.jpg,http://wa.zozuar.org/code.php?c=ock7,detail,flash
+LaserShield,undefined,http://wa.zozuar.org/code.php?c=db8G,detail,flash
+FRIENDLY FIRE,undefined,http://wa.zozuar.org/code.php?c=hjPh,detail,flash
+SEA VS ISLAND,http://www.asahi-net.or.jp/~cs8k-cyu/img/sea_vs_island.jpg,http://wa.zozuar.org/code.php?c=aRX0,detail,flash
+GROWN RACKETS,http://www.asahi-net.or.jp/~cs8k-cyu/img/grown_rackets.jpg,http://wa.zozuar.org/code.php?c=3IhI,detail,flash
+undermine,http://www.asahi-net.or.jp/~cs8k-cyu/img/undermine.jpg,http://wa.zozuar.org/code.php?c=bv3w,detail,flash
+PLANET MOON,http://www.asahi-net.or.jp/~cs8k-cyu/img/planet_moon.jpg,http://wa.zozuar.org/code.php?c=jntT,detail,flash
+LASER GRAZE,http://www.asahi-net.or.jp/~cs8k-cyu/img/laser_graze.jpg,http://wa.zozuar.org/code.php?c=oIg8,detail,flash
+CHARGE SEVEN,http://www.asahi-net.or.jp/~cs8k-cyu/img/charge_seven.jpg,http://wa.zozuar.org/code.php?c=faFsE,detail,flash
+ocwalls,http://www.asahi-net.or.jp/~cs8k-cyu/img/ocwalls.jpg,http://wa.zozuar.org/code.php?c=tB4v,detail,flash
+boxinbox,http://www.asahi-net.or.jp/~cs8k-cyu/img/boxinbox.jpg,http://wa.zozuar.org/code.php?c=2D7T,detail,flash
+boxed,http://www.asahi-net.or.jp/~cs8k-cyu/img/boxed.jpg,http://wa.zozuar.org/code.php?c=cOX2,detail,flash
+LeftRedRightBlue,undefined,http://wa.zozuar.org/code.php?c=gb4z,detail,flash
+CAR GATE,undefined,http://wa.zozuar.org/code.php?c=lHQC,detail,flash
+astball,undefined,http://wa.zozuar.org/code.php?c=5fyy,detail,flash
+WallAll,undefined,http://wa.zozuar.org/code.php?c=3bzD,detail,flash
+WASD THRUST,http://www.asahi-net.or.jp/~cs8k-cyu/img/wasd_thrust.jpg ,http://fl.corge.net/c/cUIn,detail,flash
+TANK FIRES BLOCK,http://www.asahi-net.or.jp/~cs8k-cyu/img/tank_fires_block.jpg,http://fl.corge.net/c/dxL8,detail,flash
 JUMP GAME,undefined,http://fl.corge.net/c/pgP7,detail,flash
-DEFRAG MAN,undefined,http://fl.corge.net/c/sFNv,detail,flash
-SPIKE TUBES,undefined,http://fl.corge.net/c/zgsg,detail,flash
-NO BULLET NO DEATH,undefined,http://fl.corge.net/c/5EuJ,detail,flash
-propagate,undefined,http://fl.corge.net/c/9gkBH,detail,flash
-commandmissile,undefined,http://fl.corge.net/c/kqI2,detail,flash
-beanball,undefined,http://fl.corge.net/c/mgKj,detail,flash
-CircleCycle,undefined,http://fl.corge.net/c/8MLE,detail,flash
-ufast,undefined,http://fl.corge.net/c/8Ylg,detail,flash
-THRUST CAVE,undefined,http://fl.corge.net/c/9q2p,detail,flash
-ULTRA SUPER REFLECTION GUIDE,undefined,http://fl.corge.net/c/lV2v,detail,flash
-ON PIKE,undefined,http://fl.corge.net/c/9paU,detail,flash
-FLY LIGHT,undefined,http://fl.corge.net/c/uaIq,detail,flash
-SPLASH BUBBLE,undefined,http://fl.corge.net/c/9Vho,detail,flash
-DEADLY BALLS BOUNCE,undefined,http://fl.corge.net/c/umZP,detail,flash
-PUMP CIRCLE,undefined,http://fl.corge.net/c/wFDl,detail,flash
-CLOCK JUMP,undefined,http://fl.corge.net/c/xFyZ,detail,flash
-EXPAND BOXES,undefined,http://fl.corge.net/c/cimM,detail,flash
-timebomb,undefined,http://fl.corge.net/c/tuh0C,detail,flash
-SUPER SPEED SNAKE CHASES CURSOR,undefined,http://fl.corge.net/c/xUSx,detail,flash
-SQUARE RAILS,undefined,http://fl.corge.net/c/5Vjk,detail,flash
-TWIN ROCKETS,undefined,http://fl.corge.net/c/8tQu,detail,flash
-AmidaDaMida,undefined,http://fl.corge.net/c/k0GL,detail,flash
-MIRROR MARBLE,undefined,http://fl.corge.net/c/kDtv,detail,flash
-BLOCKS FLYING AT ME,undefined,http://fl.corge.net/c/n8WZ,detail,flash
-LASER WINDER,undefined,http://fl.corge.net/c/pYeI,detail,flash
-TOWER TOP,undefined,http://fl.corge.net/c/riLl,detail,flash
-LOCK ON TO ALL OF THEM,undefined,http://fl.corge.net/c/rqvL,detail,flash
-ALPINE ZONE,undefined,http://fl.corge.net/c/sqWq,detail,flash
-DUAL PISTOLS RG,undefined,http://fl.corge.net/c/ilHX,detail,flash
-SHEEP RUNNING,undefined,http://fl.corge.net/c/nony,detail,flash
-exvert,undefined,http://fl.corge.net/c/ouWk,detail,flash
-RING WALK,undefined,http://fl.corge.net/c/wRyA,detail,flash
-formula,undefined,http://fl.corge.net/c/yztM,detail,flash
-pwing,undefined,http://fl.corge.net/c/zKJB,detail,flash
-downward,undefined,http://fl.corge.net/c/bumo,detail,flash
-bacrush,undefined,http://fl.corge.net/c/xzWl,detail,flash
-TOSSED HUMANS SPLIT OVER,undefined,http://fl.corge.net/c/d8Rm,detail,flash
-DIE IN EXTENDING,undefined,http://fl.corge.net/c/i2Cs,detail,flash
+DEFRAG MAN,http://www.asahi-net.or.jp/~cs8k-cyu/img/defrag_man.jpg,http://wa.zozuar.org/code.php?c=sFNv,detail,flash
+SPIKE TUBES,http://www.asahi-net.or.jp/~cs8k-cyu/img/spike_tubes.jpg,http://wa.zozuar.org/code.php?c=zgsg,detail,flash
+NO BULLET NO DEATH,http://www.asahi-net.or.jp/~cs8k-cyu/img/no_bullet_no_death.jpg,http://wa.zozuar.org/code.php?c=5EuJ,detail,flash
+propagate,http://www.asahi-net.or.jp/~cs8k-cyu/img/propagate.jpg,http://wa.zozuar.org/code.php?c=9gkBH,detail,flash
+commandmissile,http://www.asahi-net.or.jp/~cs8k-cyu/img/commandmissile.jpg,http://wa.zozuar.org/code.php?c=kqI2,detail,flash
+beanball,http://www.asahi-net.or.jp/~cs8k-cyu/img/beanball.jpg,http://wa.zozuar.org/code.php?c=mgKj,detail,flash
+CircleCycle,http://www.asahi-net.or.jp/~cs8k-cyu/img/circle_cycle.jpg,http://wa.zozuar.org/code.php?c=8MLE,detail,flash
+ufast,http://www.asahi-net.or.jp/~cs8k-cyu/img/ufast.jpg,http://wa.zozuar.org/code.php?c=8Ylg,detail,flash
+THRUST CAVE,http://www.asahi-net.or.jp/~cs8k-cyu/img/thrust_cave.jpg,http://wa.zozuar.org/code.php?c=9q2p,detail,flash
+ULTRA SUPER REFLECTION GUIDE,http://www.asahi-net.or.jp/~cs8k-cyu/img/ultra_super_reflection_guide.jpg,http://wa.zozuar.org/code.php?c=lV2v,detail,flash
+ON PIKE,undefined,http://wa.zozuar.org/code.php?c=9paU,detail,flash
+FLY LIGHT,http://www.asahi-net.or.jp/~cs8k-cyu/img/fly_light.jpg,http://wa.zozuar.org/code.php?c=uaIq,detail,flash
+SPLASH BUBBLE,http://www.asahi-net.or.jp/~cs8k-cyu/img/splash_bubble.jpg,http://wa.zozuar.org/code.php?c=9Vho,detail,flash
+DEADLY BALLS BOUNCE,http://www.asahi-net.or.jp/~cs8k-cyu/img/deadly_balls_bounce.jpg,http://wa.zozuar.org/code.php?c=umZP,detail,flash
+PUMP CIRCLE,http://www.asahi-net.or.jp/~cs8k-cyu/img/pump_circle.jpg,http://wa.zozuar.org/code.php?c=wFDl,detail,flash
+CLOCK JUMP,http://www.asahi-net.or.jp/~cs8k-cyu/img/clock_jump.jpg,http://wa.zozuar.org/code.php?c=xFyZ,detail,flash
+EXPAND BOXES,http://www.asahi-net.or.jp/~cs8k-cyu/img/expand_boxes.jpg,http://wa.zozuar.org/code.php?c=cimM,detail,flash
+timebomb,http://www.asahi-net.or.jp/~cs8k-cyu/img/timebomb.jpg,http://wa.zozuar.org/code.php?c=tuh0C,detail,flash
+SUPER SPEED SNAKE CHASES CURSOR,http://www.asahi-net.or.jp/~cs8k-cyu/img/super_speed_snake_chases_cursor.jpg,http://wa.zozuar.org/code.php?c=xUSx,detail,flash
+p3j2,http://www.asahi-net.or.jp/~cs8k-cyu/img/p3j2.jpg,http://wa.zozuar.org/code.php?c=yzl9,detail,flash
+SQUARE RAILS,http://www.asahi-net.or.jp/~cs8k-cyu/img/square_rails.jpg,http://wa.zozuar.org/code.php?c=5Vjk,detail,flash
+TWIN ROCKETS,undefined,http://wa.zozuar.org/code.php?c=8tQu,detail,flash
+AmidaDaMida,http://www.asahi-net.or.jp/~cs8k-cyu/img/amida_da_mida.jpg,http://wa.zozuar.org/code.php?c=k0GL,detail,flash
+MIRROR MARBLE,http://www.asahi-net.or.jp/~cs8k-cyu/img/mirror_marble.jpg,http://wa.zozuar.org/code.php?c=kDtv,detail,flash
+BLOCKS FLYING AT ME,http://www.asahi-net.or.jp/~cs8k-cyu/img/blocks_flying_at_me.jpg,http://wa.zozuar.org/code.php?c=n8WZ,detail,flash
+LASER WINDER,http://www.asahi-net.or.jp/~cs8k-cyu/img/laser_winder.jpg,http://wa.zozuar.org/code.php?c=pYeI,detail,flash
+TOWER TOP,undefined,http://wa.zozuar.org/code.php?c=riLl,detail,flash
+LOCK ON TO ALL OF THEM,http://www.asahi-net.or.jp/~cs8k-cyu/img/lock_on_to_all_of_them.jpg,http://wa.zozuar.org/code.php?c=rqvL,detail,flash
+ALPINE ZONE,undefined,http://wa.zozuar.org/code.php?c=sqWq,detail,flash
+DUAL PISTOLS RG,http://www.asahi-net.or.jp/~cs8k-cyu/img/dual_pistols_rg.jpg,http://wa.zozuar.org/code.php?c=ilHX,detail,flash
+SHEEP RUNNING,undefined,http://wa.zozuar.org/code.php?c=nony,detail,flash
+exvert,http://www.asahi-net.or.jp/~cs8k-cyu/img/exvert.jpg,http://wa.zozuar.org/code.php?c=ouWk,detail,flash
+RING WALK,http://www.asahi-net.or.jp/~cs8k-cyu/img/ring_walk.jpg,http://wa.zozuar.org/code.php?c=wRyA,detail,flash
+formula,http://www.asahi-net.or.jp/~cs8k-cyu/img/formula.jpg,http://wa.zozuar.org/code.php?c=yztM,detail,flash
+pwing,http://www.asahi-net.or.jp/~cs8k-cyu/img/pwing.jpg,http://wa.zozuar.org/code.php?c=zKJB,detail,flash
+downward,http://www.asahi-net.or.jp/~cs8k-cyu/img/downward.jpg,http://wa.zozuar.org/code.php?c=bumo,detail,flash
+bacrush,http://www.asahi-net.or.jp/~cs8k-cyu/img/bacrush.jpg,http://wa.zozuar.org/code.php?c=xzWl,detail,flash
+TOSSED HUMANS SPLIT OVER,http://www.asahi-net.or.jp/~cs8k-cyu/img/tossed_humans_split_over.jpg,http://wa.zozuar.org/code.php?c=d8Rm,detail,flash
+ProceduralAutomaton,http://www.asahi-net.or.jp/~cs8k-cyu/img/procedural_automaton.jpg,http://wa.zozuar.org/code.php?c=s8ma,detail,flash
+dimcom,http://www.asahi-net.or.jp/~cs8k-cyu/img/dimcom.jpg,http://wa.zozuar.org/code.php?c=fmrf,detail,flash
+ReflectLaser,http://www.asahi-net.or.jp/~cs8k-cyu/img/reflect_laser.jpg,http://wa.zozuar.org/code.php?c=kMc8,detail,flash
+DIE IN EXTENDING,http://www.asahi-net.or.jp/~cs8k-cyu/img/die_in_extending.jpg,http://wa.zozuar.org/code.php?c=i2Cs,detail,flash
 BulletML,http://www.asahi-net.or.jp/~cs8k-cyu/bulletml/bulletml1.gif,http://www.asahi-net.or.jp/~cs8k-cyu/bulletml/index_e.html,detail,misc
 Bulletsmorph,http://www.asahi-net.or.jp/~cs8k-cyu/bulletml/bulletsmorph/bm1.gif,http://www.asahi-net.or.jp/~cs8k-cyu/bulletml/bulletsmorph/index_e.html,detail,misc
 STGL,http://www.asahi-net.or.jp/~cs8k-cyu/blog/images/stgl-demo.png,https://github.com/abagames/stgldemo,detail,misc
