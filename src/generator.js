@@ -164,13 +164,10 @@ function getCard(title, imageUrl, linkUrl, linkType, platformName) {
       : `
 <img
   src="${imageUrl}"
+  alt="${title}"
   class="bd-placeholder-img card-img-top"
-  width="100%"
   height="225"
-  role="img"
-  aria-label="Placeholder: Thumbnail"
   style="object-fit: contain"
-  focusable="false"
   loading="lazy"
 />
 `;
