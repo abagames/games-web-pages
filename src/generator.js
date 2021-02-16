@@ -144,7 +144,7 @@ function getCard(title, imageUrl, linkUrl, linkType, platformName) {
   const imgHtml =
     imageUrl === "undefined"
       ? `
-  <svg
+<svg
   class="bd-placeholder-img card-img-top"
   width="100%"
   height="225"
@@ -226,7 +226,7 @@ class="btn btn-primary my-2">${pageNames[t]}</a>
       <meta name="twitter:description" content="${pageNames[type]} games" />
       <meta name="twitter:image" content="${baseUrl}${summaryImageFileNames[type]}" />
       <title>${title}</title>
-      <link href="http://www.asahi-net.or.jp/~cs8k-cyu/favicon.png" rel="icon" />
+      <link href="favicon.png" rel="icon" />
   
       <link
         href="./bootstrap.min.css"
