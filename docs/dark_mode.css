@@ -1,0 +1,24 @@
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #212121;
+  }
+  .bg-dark {
+    background-color: white !important;
+  }
+  .bg-light {
+    background-color: #272727 !important;
+  }
+  .fw-light {
+    color: white !important;
+  }
+  .text-muted {
+    color: #b7b7b7 !important;
+  }
+  strong {
+    color: #212121;
+  }
+  .card {
+    background-color: #212121;
+    color: #e7e7e7;
+  }
+}
