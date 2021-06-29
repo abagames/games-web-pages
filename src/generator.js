@@ -1,4 +1,4 @@
-const baseUrl = "https://abagames.github.io/games-web-pages/";
+const baseUrl = "http://www.asahi-net.or.jp/~cs8k-cyu/";
 const listFileName = "./src/abagames_games.csv";
 const outputDirectory = "./docs/";
 const pageFileNames = {
