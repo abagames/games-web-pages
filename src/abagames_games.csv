@@ -13,6 +13,7 @@ Suzuri,http://www.asahi-net.or.jp/~cs8k-cyu/free/szrview/szr_s2.gif,http://www.a
 Masashikun Hi!,http://www.asahi-net.or.jp/~cs8k-cyu/free/masview/mas_kak_p.gif,http://www.asahi-net.or.jp/~cs8k-cyu/free/mas_e.html,detail,windows
 Mazer Mayhem,http://www.asahi-net.or.jp/~cs8k-cyu/xna/mm/mm_0.gif,http://www.asahi-net.or.jp/~cs8k-cyu/xna/mm/index_e.html,detail,windows
 GearToyGear,http://www.asahi-net.or.jp/~cs8k-cyu/xna/gtg/gtg_0_s.gif,http://www.asahi-net.or.jp/~cs8k-cyu/xna/gtg/index_e.html,detail,windows
+G TAIL,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/gtail/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?gtail,play,browser
 ROLL S,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/rolls/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?rolls,play,browser
 BREED C,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/breedc/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?breedc,play,browser
 ANT LION,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/antlion/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?antlion,play,browser
@@ -106,10 +107,15 @@ SHINY,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/shiny/scree
 CARD Q,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/cardq/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?cardq,play,browser
 GRENADIER,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/grenadier/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?grenadier,play,browser
 FIND A STAR,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/findastar/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?findastar,play,browser
+ROLLNROPE,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/rollnrope/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?rollnrope,play,browser
+DIVARR,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/divarr/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?divarr,play,browser
+EAROCK,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/earock/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?earock,play,browser
+SPEARAIN,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/spearain/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?spearain ,play,browser
+BAROLL,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/baroll/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?baroll,play,browser
+FORFOUR,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/forfour/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?forfour,play,browser
 SURVIVOR,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/survivor/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?survivor,play,browser
 CYWALL,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/cywall/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?cywall,play,browser
 LLAND,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/lland/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?lland,play,browser
-DIVARR,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/divarr/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?divarr,play,browser
 ARCFIRE,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/arcfire/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?arcfire,play,browser
 soniper ,https://github.com/abagames/soniper/raw/master/docs/screenshots/screenshot.gif,https://abagames.github.io/soniper/,play,browser
 Consomation ,https://camo.githubusercontent.com/4f415ab424916a5bc95c3d88ba332506ab798c09663429b973b40fa5d0053de3/687474703a2f2f61626167616d65732e73616b7572612e6e652e6a702f31362f636f6e736f6d61746f6e2f73637265656e73686f742e676966,http://abagames.sakura.ne.jp/16/consomaton/,play,browser
@@ -137,14 +143,9 @@ PILEUP,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/pileup/scr
 FOOSAN,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/foosan/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?foosan,play,browser
 FLIPBOMB,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/flipbomb/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?flipbomb,play,browser
 SLALOM,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/slalom/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?slalom,play,browser
-EAROCK,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/earock/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?earock,play,browser
 DOSHIN,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/doshin/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?doshin,play,browser
-FORFOUR,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/forfour/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?forfour,play,browser
-ROLLNROPE,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/rollnrope/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?rollnrope,play,browser
 BOARDING,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/boarding/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?boarding,play,browser
-SPEARAIN,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/spearain/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?spearain ,play,browser
 FLOATER,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/floater/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?floater,play,browser
-BAROLL,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/baroll/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?baroll,play,browser
 GOLFME,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/golfme/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?golfme ,play,browser
 ZARTAN,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/zartan/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?zartan,play,browser
 BALLOON,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/balloon/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?balloon,play,browser
