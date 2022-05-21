@@ -16,7 +16,6 @@ GearToyGear,http://www.asahi-net.or.jp/~cs8k-cyu/xna/gtg/gtg_0_s.gif,http://www.
 B MATH,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/bmath/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?bmath,play,browser
 T LASER,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/tlaser/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?tlaser,play,browser
 BALL TOUR,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/balltour/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?balltour,play,browser
-Short-VGM-generator,https://abagames.github.io/short-vgm-generator/screenshot.png,https://abagames.github.io/short-vgm-generator/build/,play,browser
 HAKOSAN,https://abagames.github.io/hakosan/screenshot.gif,https://abagames.github.io/hakosan/build/,play,browser
 REBIRTH,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/rebirth/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?rebirth,play,browser
 IN TOW,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/intow/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?intow,play,browser
@@ -354,6 +353,7 @@ ProceduralAutomaton,http://www.asahi-net.or.jp/~cs8k-cyu/img/procedural_automato
 dimcom,http://www.asahi-net.or.jp/~cs8k-cyu/img/dimcom.jpg,http://wa.zozuar.org/code.php?c=fmrf,detail,flash
 ReflectLaser,http://www.asahi-net.or.jp/~cs8k-cyu/img/reflect_laser.jpg,http://wa.zozuar.org/code.php?c=kMc8,detail,flash
 DIE IN EXTENDING,http://www.asahi-net.or.jp/~cs8k-cyu/img/die_in_extending.jpg,http://wa.zozuar.org/code.php?c=i2Cs,detail,flash
+Short-VGM-generator,https://abagames.github.io/short-vgm-generator/screenshot.png,https://abagames.github.io/short-vgm-generator/build/,play,misc
 BulletML,http://www.asahi-net.or.jp/~cs8k-cyu/bulletml/bulletml1.gif,http://www.asahi-net.or.jp/~cs8k-cyu/bulletml/index_e.html,detail,misc
 Bulletsmorph,http://www.asahi-net.or.jp/~cs8k-cyu/bulletml/bulletsmorph/bm1.gif,http://www.asahi-net.or.jp/~cs8k-cyu/bulletml/bulletsmorph/index_e.html,detail,misc
 STGL,http://www.asahi-net.or.jp/~cs8k-cyu/blog/images/stgl-demo.png,https://github.com/abagames/stgldemo,detail,misc
