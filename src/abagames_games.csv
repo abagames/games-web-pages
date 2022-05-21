@@ -13,26 +13,30 @@ Suzuri,http://www.asahi-net.or.jp/~cs8k-cyu/free/szrview/szr_s2.gif,http://www.a
 Masashikun Hi!,http://www.asahi-net.or.jp/~cs8k-cyu/free/masview/mas_kak_p.gif,http://www.asahi-net.or.jp/~cs8k-cyu/free/mas_e.html,detail,windows
 Mazer Mayhem,http://www.asahi-net.or.jp/~cs8k-cyu/xna/mm/mm_0.gif,http://www.asahi-net.or.jp/~cs8k-cyu/xna/mm/index_e.html,detail,windows
 GearToyGear,http://www.asahi-net.or.jp/~cs8k-cyu/xna/gtg/gtg_0_s.gif,http://www.asahi-net.or.jp/~cs8k-cyu/xna/gtg/index_e.html,detail,windows
-B MATH,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/bmath/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?bmath,play,browser
-T LASER,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/tlaser/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?tlaser,play,browser
-BALL TOUR,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/balltour/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?balltour,play,browser
-HAKOSAN,https://abagames.github.io/hakosan/screenshot.gif,https://abagames.github.io/hakosan/build/,play,browser
+SURVIVOR,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/survivor/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?survivor,play,browser
+CHARGE BEAM,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/chargebeam/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?chargebeam,play,browser
+PILLARS 3D,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/pillars3d/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?pillars3d,play,browser
+THUNDER,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/thunder/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?thunder,play,browser
+GROWTH,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/growth/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?growth,play,browser
+CARD Q,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/cardq/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?cardq,play,browser
+FLIP O,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/flipo/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?flipo,play,browser
+SHINY,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/shiny/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?shiny,play,browser
 REBIRTH,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/rebirth/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?rebirth,play,browser
 IN TOW,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/intow/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?intow,play,browser
 CAST N,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/castn/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?castn,play,browser
 BAMBOO,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/bamboo/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?bamboo,play,browser
-THUNDER,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/thunder/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?thunder,play,browser
-CARD Q,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/cardq/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?cardq,play,browser
 DESCENT S,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/descents/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?descents,play,browser
 NUMBER BALL,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/numberball/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?numberball,play,browser
 COLOR ROLL,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/colorroll/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?colorroll,play,browser
 REFLECTOR,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/reflector/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?reflector,play,browser
 PIN CLIMB,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/pinclimb/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?pinclimb,play,browser
-GROWTH,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/growth/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?growth,play,browser
-FLIP O,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/flipo/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?flipo,play,browser
 LASER FORTRESS,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/laserfortress/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?laserfortress,play,browser
 FROOOOG,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/froooog/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?froooog,play,browser
 R WHEEL,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/rwheel/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?rwheel,play,browser
+HAKOSAN,https://abagames.github.io/hakosan/screenshot.gif,https://abagames.github.io/hakosan/build/,play,browser
+T LASER,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/tlaser/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?tlaser,play,browser
+BALL TOUR,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/balltour/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?balltour,play,browser
+B MATH,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/bmath/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?bmath,play,browser
 PIZZA ARROW,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/pizzaarrow/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?pizzaarrow,play,browser
 THRUST LR,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/thrustlr/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?thrustlr,play,browser
 PAIRS DROP,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/pairsdrop/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?pairsdrop,play,browser
@@ -42,7 +46,6 @@ UP DOWN PRESS,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/upd
 LADDER DROP,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/ladderdrop/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?ladderdrop,play,browser
 COUNTER B,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/counterb/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?counterb,play,browser
 M RIDER,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/mrider/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?mrider,play,browser
-CHARGE BEAM,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/chargebeam/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?chargebeam,play,browser
 S SHAKE,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/sshake/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?sshake,play,browser
 ZONE B,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/zoneb/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?zoneb,play,browser
 M JAMMING,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/mjamming/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?mjamming,play,browser
@@ -76,7 +79,6 @@ TURBULENT,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/turbule
 GRAVELER,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/graveler/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?graveler,play,browser
 P FIT,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/pfit/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?pfit,play,browser
 THROW M,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/throwm/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?throwm,play,browser
-PILLARS 3D,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/pillars3d/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?pillars3d,play,browser
 PRESS M,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/pressm/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?pressm,play,browser
 ORBIT MAN,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/orbitman/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?orbitman,play,browser
 AERIAL BAR,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/aerialbar/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?aerialbar,play,browser
@@ -121,7 +123,6 @@ TWIN P,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/twinp/scre
 MAKE MAZE,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/makemaze/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?makemaze,play,browser
 V BOMB,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/vbomb/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?vbomb,play,browser
 S LANES,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/slanes/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?slanes,play,browser
-SHINY,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/shiny/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?shiny,play,browser
 ZOOM IO,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/zoomio/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?zoomio,play,browser
 TOTOGE,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/totoge/screenshot.gif ,https://abagames.github.io/crisp-game-lib-games/?totoge,play,browser
 D PISTOLS,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/dpistols/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?dpistols,play,browser
@@ -156,7 +157,6 @@ DIVARR,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/divarr/scr
 EAROCK,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/earock/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?earock,play,browser
 ROLLNROPE,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/rollnrope/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?rollnrope,play,browser
 HIT BLOW UP,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/hitblowup/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?hitblowup,play,browser
-SURVIVOR,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/survivor/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?survivor,play,browser
 CYWALL,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/cywall/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?cywall,play,browser
 LLAND,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/lland/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?lland,play,browser
 ARCFIRE,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/arcfire/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?arcfire,play,browser
