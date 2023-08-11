@@ -14,6 +14,7 @@ Masashikun Hi!,http://www.asahi-net.or.jp/~cs8k-cyu/free/masview/mas_kak_p.gif,h
 Mazer Mayhem,http://www.asahi-net.or.jp/~cs8k-cyu/xna/mm/mm_0.gif,http://www.asahi-net.or.jp/~cs8k-cyu/xna/mm/index_e.html,detail,windows
 GearToyGear,http://www.asahi-net.or.jp/~cs8k-cyu/xna/gtg/gtg_0_s.gif,http://www.asahi-net.or.jp/~cs8k-cyu/xna/gtg/index_e.html,detail,windows
 PAKU PAKU,https://github.com/abagames/crisp-game-lib-11-games/raw/main/docs/pakupaku/screenshot.gif,https://abagames.github.io/crisp-game-lib-11-games/?pakupaku,play,browser
+MAGNET BLOCKS,https://github.com/abagames/crisp-game-lib-11-games/raw/main/docs/magnetblocks/screenshot.gif,https://abagames.github.io/crisp-game-lib-11-games/?magnetblocks,play,browser
 DANGO,https://github.com/abagames/crisp-game-lib-11-games/raw/main/docs/dango/screenshot.gif,https://abagames.github.io/crisp-game-lib-11-games/?dango,play,browser
 METEO PLANET,https://github.com/abagames/crisp-game-lib-11-games/raw/main/docs/meteoplanet/screenshot.gif,https://abagames.github.io/crisp-game-lib-11-games/?meteoplanet,play,browser
 RING BLAST,https://github.com/abagames/crisp-game-lib-11-games/raw/main/docs/ringblast/screenshot.gif,https://abagames.github.io/crisp-game-lib-11-games/?ringblast,play,browser
@@ -362,10 +363,13 @@ ProceduralAutomaton,http://www.asahi-net.or.jp/~cs8k-cyu/img/procedural_automato
 dimcom,http://www.asahi-net.or.jp/~cs8k-cyu/img/dimcom.jpg,http://wa.zozuar.org/code.php?c=fmrf,detail,flash
 ReflectLaser,http://www.asahi-net.or.jp/~cs8k-cyu/img/reflect_laser.jpg,http://wa.zozuar.org/code.php?c=kMc8,detail,flash
 DIE IN EXTENDING,http://www.asahi-net.or.jp/~cs8k-cyu/img/die_in_extending.jpg,http://wa.zozuar.org/code.php?c=i2Cs,detail,flash
-Short-VGM-generator,https://abagames.github.io/short-vgm-generator/screenshot.png,https://abagames.github.io/short-vgm-generator/build/,play,misc
+crisp-game-lib,https://raw.githubusercontent.com/abagames/crisp-game-lib-11-games/main/docs/thunder/screenshot.gif,https://github.com/abagames/crisp-game-lib,detail,misc
+crisp-game-lib-portable,https://raw.githubusercontent.com/abagames/crisp-game-lib-portable/main/docs/screenshotM5StickCPlus.gif,https://github.com/abagames/crisp-game-lib-portable,detail,misc
+peekpoke,https://raw.githubusercontent.com/abagames/peekpoke/main/docs/screenshot.gif,https://github.com/abagames/peekpoke,detail,misc
 BulletML,http://www.asahi-net.or.jp/~cs8k-cyu/bulletml/bulletml1.gif,http://www.asahi-net.or.jp/~cs8k-cyu/bulletml/index_e.html,detail,misc
 Bulletsmorph,http://www.asahi-net.or.jp/~cs8k-cyu/bulletml/bulletsmorph/bm1.gif,http://www.asahi-net.or.jp/~cs8k-cyu/bulletml/bulletsmorph/index_e.html,detail,misc
 STGL,http://www.asahi-net.or.jp/~cs8k-cyu/blog/images/stgl-demo.png,https://github.com/abagames/stgldemo,detail,misc
+Short-VGM-generator,https://abagames.github.io/short-vgm-generator/screenshot.png,https://abagames.github.io/short-vgm-generator/build/,play,misc
 PutiPati,http://www.asahi-net.or.jp/~cs8k-cyu/ww/putipati1.gif,http://www.asahi-net.or.jp/~cs8k-cyu/ww/putipati.html,detail,wonder_witch
 Nametry,http://www.asahi-net.or.jp/~cs8k-cyu/ww/nametry1.gif,http://www.asahi-net.or.jp/~cs8k-cyu/ww/nametry.html,detail,wonder_witch
 Noiz,http://www.asahi-net.or.jp/~cs8k-cyu/ww/noiz1.gif,http://www.asahi-net.or.jp/~cs8k-cyu/ww/noiz.html,detail,wonder_witch
