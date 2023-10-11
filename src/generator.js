@@ -1,4 +1,4 @@
-const baseUrl = "http://www.asahi-net.or.jp/~cs8k-cyu/";
+const baseUrl = "https://www.asahi-net.or.jp/~cs8k-cyu/";
 const listFileName = "./src/abagames_games.csv";
 const outputDirectory = "./docs/";
 const pageFileNames = {
@@ -148,7 +148,7 @@ function getCard(title, imageUrl, linkUrl, linkType, platformName) {
   class="bd-placeholder-img card-img-top"
   width="100%"
   height="225"
-  xmlns="http://www.w3.org/2000/svg"
+  xmlns="https://www.w3.org/2000/svg"
   role="img"
   aria-label="Placeholder: Thumbnail"
   preserveAspectRatio="xMidYMid slice"
@@ -259,7 +259,7 @@ class="btn btn-primary my-2">${pageNames[t]}</a>
       <div class="navbar navbar-dark bg-dark shadow-sm">
         <div class="container">
           <a
-            href="http://www.asahi-net.or.jp/~cs8k-cyu/"
+            href="https://www.asahi-net.or.jp/~cs8k-cyu/"
             class="navbar-brand d-flex align-items-center"
           >
             <strong>ABA Games</strong>
@@ -276,7 +276,7 @@ class="btn btn-primary my-2">${pageNames[t]}</a>
               GitHub:
               <a href="https://github.com/abagames">abagames</a>
               Twitter:
-              <a href="http://twitter.com/abagames">@abagames</a>
+              <a href="https://twitter.com/abagames">@abagames</a>
             </p>
             <h1 class="fw-light">${pageNames[type]} games</h1>
             <p>
