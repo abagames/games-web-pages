@@ -254,6 +254,9 @@ z80-repl,https://abagames.github.io/z80-repl/screenshot.gif,https://abagames.git
 sarad,https://camo.githubusercontent.com/0ac4d2c6afded277e4cc74e39644faacf98ce5235f02138dec7125e642489c55/687474703a2f2f61626167616d65732e73616b7572612e6e652e6a702f31362f73617261642f73637265656e73686f7431312e676966,http://abagames.sakura.ne.jp/16/sarad/app/index.html,play,browser
 ByteBeatBank,https://www.asahi-net.or.jp/~cs8k-cyu/blog/images/bytebeatbank.png,http://abagames.sakura.ne.jp/15/bbb/?v=1&d=NojeCIGNwLgRgDTgPawKxIGazgTgL4ITQwAMSqMuWsAzIcbOSrACw0wBM+AugsIzIU2HbkSixOwmAA5RDCUJZUOrXnzCLEyueGwx64ktsq79Ywc1Md6GwSfQc4rAkZzSzOBcY83e-e2kMPUk1O0UrWE94byZpahCDWKVKBPN1fg0eHiA,play,browser
 Inf-regex-q,undefined,https://abagames.github.io/inf-regex-q/index.html,play,browser
+L.A.2,https://www.asahi-net.or.jp/~cs8k-cyu/flash/la2/screenshot.png,https://www.asahi-net.or.jp/~cs8k-cyu/flash/la2/index.html,play,flash
+Least Best Room,https://www.asahi-net.or.jp/~cs8k-cyu/flash/lbr/screenshot.png,https://www.asahi-net.or.jp/~cs8k-cyu/flash/lbr/index.htm,play,flash
+Dngn,https://www.asahi-net.or.jp/~cs8k-cyu/flash/dngn/screenshot.png,https://www.asahi-net.or.jp/~cs8k-cyu/flash/dngn/index.html,play,flash
 FROM FOUR SIDES,https://www.asahi-net.or.jp/~cs8k-cyu/blog/images/ffs_capture.gif,https://abagames.sakura.ne.jp/flash/ffs/,detail,flash
 MISSILE COMES BACK TO ME,https://www.asahi-net.or.jp/~cs8k-cyu/blog/images/mcbtm_capture.gif,https://abagames.sakura.ne.jp/flash/mcbtm/,detail,flash
 SUM10,https://www.asahi-net.or.jp/~cs8k-cyu/blog/images/st_capture.gif,https://abagames.sakura.ne.jp/flash/st/,detail,flash
@@ -282,9 +285,6 @@ EARTH DEFENSE STICKS,https://www.asahi-net.or.jp/~cs8k-cyu/blog/images/eds_captu
 TYPHOON AVENUE,https://www.asahi-net.or.jp/~cs8k-cyu/blog/images/ta_capture.gif,https://abagames.sakura.ne.jp/flash/ta/,detail,flash
 CIRCLE TRIANGLE CROSS,https://www.asahi-net.or.jp/~cs8k-cyu/blog/images/ctc_capture.gif,https://abagames.sakura.ne.jp/flash/ctc/,detail,flash
 STRONG BUY STRONG SELL,https://www.asahi-net.or.jp/~cs8k-cyu/blog/images/sbss_capture.gif,https://abagames.sakura.ne.jp/flash/sbss/,detail,flash
-L.A.2,undefined,https://www.asahi-net.or.jp/~cs8k-cyu/flash/la2/index.html,detail,flash
-Least Best Room,undefined,https://www.asahi-net.or.jp/~cs8k-cyu/flash/lbr/index.htm,detail,flash
-Dngn,undefined,https://www.asahi-net.or.jp/~cs8k-cyu/flash/dngn/index.html,detail,flash
 LONG EDGE WINS,undefined,https://abagames.sakura.ne.jp/flash/lew/,detail,flash
 SPACE SHIPS CONTACT ACCIDENTAL,undefined,https://abagames.sakura.ne.jp/flash/ssca/,detail,flash
 SIDE SHOT BOOSTER,https://www.asahi-net.or.jp/~cs8k-cyu/blog/images/side-shot-booster.png,https://abagames.sakura.ne.jp/flash/ssb/,detail,flash
@@ -368,6 +368,7 @@ ProceduralAutomaton,https://www.asahi-net.or.jp/~cs8k-cyu/img/procedural_automat
 dimcom,https://www.asahi-net.or.jp/~cs8k-cyu/img/dimcom.jpg,http://wa.zozuar.org/code.php?c=fmrf,detail,flash
 ReflectLaser,https://www.asahi-net.or.jp/~cs8k-cyu/img/reflect_laser.jpg,http://wa.zozuar.org/code.php?c=kMc8,detail,flash
 DIE IN EXTENDING,https://www.asahi-net.or.jp/~cs8k-cyu/img/die_in_extending.jpg,http://wa.zozuar.org/code.php?c=i2Cs,detail,flash
+Joys of Small Game Development,https://abagames.github.io/joys-of-small-game-development-en/images/joys_of_small_game_development.png,https://abagames.github.io/joys-of-small-game-development-en/,detail,misc
 crisp-game-lib,https://raw.githubusercontent.com/abagames/crisp-game-lib-11-games/main/docs/thunder/screenshot.gif,https://github.com/abagames/crisp-game-lib,detail,misc
 crisp-game-lib-portable,https://raw.githubusercontent.com/abagames/crisp-game-lib-portable/main/docs/screenshotM5StickCPlus.gif,https://github.com/abagames/crisp-game-lib-portable,detail,misc
 PEEKPOKE,https://raw.githubusercontent.com/abagames/peekpoke/main/docs/screenshot.gif,https://github.com/abagames/peekpoke,detail,misc
