@@ -4,6 +4,7 @@ const outputDirectory = "./docs/";
 const pageFileNames = {
   all: "index.html",
   windows: "windows.html",
+  one_button: "one_button.html",
   browser: "browser.html",
   flash: "flash.html",
   misc: "misc.html",
@@ -11,6 +12,7 @@ const pageFileNames = {
 const summaryImageFileNames = {
   all: "all.png",
   windows: "windows.png",
+  one_button: "one_button.png",
   browser: "browser.png",
   flash: "flash.png",
   misc: "misc.png",
@@ -18,6 +20,7 @@ const summaryImageFileNames = {
 const pageNames = {
   all: "All",
   windows: "Windows",
+  one_button: "One button",
   browser: "Browser",
   flash: "Flash",
   misc: "Misc.",
@@ -28,6 +31,7 @@ const LinkTypeNames = {
 };
 const platformNames = {
   windows: "Windows",
+  one_button: "One button",
   browser: "Browser",
   flash: "Flash",
   misc: "Misc.",
@@ -51,6 +55,7 @@ let gameList;
 loadList();
 savePage("all");
 savePage("windows");
+savePage("one_button");
 savePage("browser");
 savePage("flash");
 savePage("misc");
@@ -74,7 +79,7 @@ function loadList() {
 }
 
 /**
- * @param {"all" | "windows" | "browser" | "flash" | "misc" } type
+ * @param {"all" | "windows" | "one_button" | "browser" | "flash" | "misc" } type
  */
 function savePage(type) {
   const fileName = `${outputDirectory}${pageFileNames[type]}`;
@@ -84,20 +89,26 @@ function savePage(type) {
 }
 
 /**
- * @param {"all" | "windows" | "browser" | "flash" | "misc" } type
+ * @param {"all" | "windows" | "one_button" | "browser" | "flash" | "misc" } type
  * @return { {title: string, imageUrl: string, linkUrl: string, linkType: string, platformName: string}[] }
  */
 function filterGameList(type) {
   if (type === "all") {
     return gameList;
   }
-  if (type === "windows" || type === "browser" || type === "flash") {
+  if (
+    type === "windows" ||
+    type === "one_button" ||
+    type === "browser" ||
+    type === "flash"
+  ) {
     return gameList.filter((g) => g.platformName === type);
   }
   if (type === "misc") {
     return gameList.filter(
       (g) =>
         g.platformName !== "windows" &&
+        g.platformName !== "one_button" &&
         g.platformName !== "browser" &&
         g.platformName !== "flash"
     );
@@ -192,7 +203,7 @@ function getCard(title, imageUrl, linkUrl, linkType, platformName) {
 }
 
 /**
- * @param {"all" | "windows" | "browser" | "flash" | "misc" } type
+ * @param {"all" | "windows" | "one_button" | "browser" | "flash" | "misc" } type
  * @return {string}
  */
 function getPage(type) {
@@ -201,7 +212,7 @@ function getPage(type) {
   if (type != "all") {
     title += ` - ${pageNames[type]}`;
   }
-  let buttons = ["all", "windows", "browser", "flash", "misc"]
+  let buttons = ["all", "windows", "one_button", "browser", "flash", "misc"]
     .map((t) => {
       if (t === type) {
         return `
