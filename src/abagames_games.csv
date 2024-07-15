@@ -13,6 +13,15 @@ Suzuri,https://www.asahi-net.or.jp/~cs8k-cyu/free/szrview/szr_s2.gif,https://www
 Masashikun Hi!,https://www.asahi-net.or.jp/~cs8k-cyu/free/masview/mas_kak_p.gif,https://www.asahi-net.or.jp/~cs8k-cyu/free/mas_e.html,detail,windows
 Mazer Mayhem,https://www.asahi-net.or.jp/~cs8k-cyu/xna/mm/mm_0.gif,https://www.asahi-net.or.jp/~cs8k-cyu/xna/mm/index_e.html,detail,windows
 GearToyGear,https://www.asahi-net.or.jp/~cs8k-cyu/xna/gtg/gtg_0_s.gif,https://www.asahi-net.or.jp/~cs8k-cyu/xna/gtg/index_e.html,detail,windows
+CATCHING WHEEL,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/catchingwheel/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?catchingwheel,play,one_button
+SLIME STRETCHER,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/slimestretcher/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?slimestretcher,play,one_button
+JUGGLING ACT,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/jugglingact/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?jugglingact,play,one_button
+WINDOW WASHER,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/windowwasher/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?windowwasher,play,one_button
+TWIN JUMPERS,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/twinjumpers/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?twinjumpers,play,one_button
+ELASTIC HERO,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/elastichero/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?elastichero,play,one_button
+BLADE DANCER,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/bladedancer/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?bladedancer,play,one_button
+TORNADO TWISTER,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/tornadotwister/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?tornadotwister,play,one_button
+ROTATING TUNNEL,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/rotatingtunnel/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?rotatingtunnel,play,one_button
 PAKU PAKU,https://github.com/abagames/crisp-game-lib-11-games/raw/main/docs/pakupaku/screenshot.gif,https://abagames.github.io/crisp-game-lib-11-games/?pakupaku,play,one_button
 BOX SNAKE,https://github.com/abagames/crisp-game-lib-12-games/raw/main/docs/boxsnake/screenshot.gif,https://abagames.github.io/crisp-game-lib-12-games/?boxsnake,play,one_button
 GRAPPLING H,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/grapplingh/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?grapplingh,play,one_button
@@ -29,9 +38,6 @@ THUNDER,https://github.com/abagames/crisp-game-lib-11-games/raw/main/docs/thunde
 CHARGE BEAM,https://github.com/abagames/crisp-game-lib-11-games/raw/main/docs/chargebeam/screenshot.gif,https://abagames.github.io/crisp-game-lib-11-games/?chargebeam,play,one_button
 LIGHT DARK,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/lightdark/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?lightdark,play,one_button
 IN TOW,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/intow/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?intow,play,one_button
-DOT CAR,https://www.asahi-net.or.jp/~cs8k-cyu/blog/images/dc_capture.gif,https://abagames.sakura.ne.jp/html5/dc/,play,one_button
-FIGURE OF EIGHT,https://www.asahi-net.or.jp/~cs8k-cyu/blog/images/foe_capture.gif,https://abagames.sakura.ne.jp/html5/foe/,play,one_button
-REFREV,https://abagames.github.io/one-button-for-all/refrev/screenshot.gif,https://abagames.github.io/one-button-for-all/refrev/index.html,play,one_button
 FROOOOG,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/froooog/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?froooog,play,one_button
 COLOR ROLL,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/colorroll/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?colorroll,play,one_button
 REFLECTOR,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/reflector/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?reflector,play,one_button
@@ -180,9 +186,12 @@ ROLLNROPE,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/rollnro
 B WALLS,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/bwalls/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?bwalls,play,one_button
 SPEARAIN,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/spearain/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?spearain ,play,one_button
 C TOWER,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/ctower/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?ctower,play,one_button
+REFREV,https://abagames.github.io/one-button-for-all/refrev/screenshot.gif,https://abagames.github.io/one-button-for-all/refrev/index.html,play,one_button
 INVORB,https://abagames.github.io/one-button-for-all/invorb/screenshot.gif,https://abagames.github.io/one-button-for-all/invorb/index.html,play,one_button
 ROPES,https://abagames.github.io/one-button-for-all/ropes/screenshot.gif,https://abagames.github.io/one-button-for-all/ropes/index.html,play,one_button
 IMBALL,https://abagames.github.io/one-button-for-all/imball/screenshot.gif,https://abagames.github.io/one-button-for-all/imball/index.html,play,one_button
+DOT CAR,https://www.asahi-net.or.jp/~cs8k-cyu/blog/images/dc_capture.gif,https://abagames.sakura.ne.jp/html5/dc/,play,one_button
+FIGURE OF EIGHT,https://www.asahi-net.or.jp/~cs8k-cyu/blog/images/foe_capture.gif,https://abagames.sakura.ne.jp/html5/foe/,play,one_button
 SIDE TO SIDE,https://www.asahi-net.or.jp/~cs8k-cyu/blog/images/sts_capture.gif,https://abagames.sakura.ne.jp/html5/sts/,play,one_button
 GRAVITY PUSHPULL,https://www.asahi-net.or.jp/~cs8k-cyu/blog/images/gpp_capture.gif,https://abagames.sakura.ne.jp/html5/gpp/,play,one_button
 SPRINGING,https://www.asahi-net.or.jp/~cs8k-cyu/blog/images/spr_capture.gif,https://abagames.sakura.ne.jp/html5/spr/,play,one_button
