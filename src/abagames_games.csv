@@ -13,7 +13,9 @@ Suzuri,https://www.asahi-net.or.jp/~cs8k-cyu/free/szrview/szr_s2.gif,https://www
 Masashikun Hi!,https://www.asahi-net.or.jp/~cs8k-cyu/free/masview/mas_kak_p.gif,https://www.asahi-net.or.jp/~cs8k-cyu/free/mas_e.html,detail,windows
 Mazer Mayhem,https://www.asahi-net.or.jp/~cs8k-cyu/xna/mm/mm_0.gif,https://www.asahi-net.or.jp/~cs8k-cyu/xna/mm/index_e.html,detail,windows
 GearToyGear,https://www.asahi-net.or.jp/~cs8k-cyu/xna/gtg/gtg_0_s.gif,https://www.asahi-net.or.jp/~cs8k-cyu/xna/gtg/index_e.html,detail,windows
-1x111,https://github.com/abagames/1x111/raw/main/docs/1x111.gif,https://abagames.github.io/1x111/build/index.html,play,one_button
+1x111,https://github.com/abagames/1x111/raw/main/docs/1x111.gif,https://abagames.itch.io/1x111,play,one_button
+PAKU PAKU,https://github.com/abagames/crisp-game-lib-11-games/raw/main/docs/pakupaku/screenshot.gif,https://abagames.itch.io/paku-paku,play,one_button
+THUNDER,https://github.com/abagames/crisp-game-lib-11-games/raw/main/docs/thunder/screenshot.gif,https://abagames.itch.io/thunder,play,one_button
 BASERUNNER DASH,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/baserunnerdash/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?baserunnerdash,play,one_button
 VINE CLIMBER,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/vineclimber/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?vineclimber,play,one_button
 TURBO TUNNEL,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/turbotunnel/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?turbotunnel,play,one_button
@@ -32,7 +34,6 @@ ELASTIC HERO,https://github.com/abagames/claude-one-button-game-creation/raw/mai
 BLADE DANCER,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/bladedancer/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?bladedancer,play,one_button
 TORNADO TWISTER,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/tornadotwister/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?tornadotwister,play,one_button
 ROTATING TUNNEL,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/rotatingtunnel/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?rotatingtunnel,play,one_button
-PAKU PAKU,https://github.com/abagames/crisp-game-lib-11-games/raw/main/docs/pakupaku/screenshot.gif,https://abagames.github.io/crisp-game-lib-11-games/?pakupaku,play,one_button
 BOX SNAKE,https://github.com/abagames/crisp-game-lib-12-games/raw/main/docs/boxsnake/screenshot.gif,https://abagames.github.io/crisp-game-lib-12-games/?boxsnake,play,one_button
 GRAPPLING H,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/grapplingh/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?grapplingh,play,one_button
 STOMPING BUBBLES,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/stompingbubbles/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?stompingbubbles,play,one_button
@@ -44,7 +45,6 @@ GRAVITY WELL,https://github.com/abagames/claude-one-button-game-creation/raw/mai
 PULSE PIPER,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/pulsepiper/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?pulsepiper,play,one_button
 FALL BOUNCE,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/fallbounce/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?fallbounce,play,one_button
 UP 1 WAY,https://github.com/abagames/crisp-game-lib-11-games/raw/main/docs/up1way/screenshot.gif,https://abagames.github.io/crisp-game-lib-11-games/?up1way,play,one_button
-THUNDER,https://github.com/abagames/crisp-game-lib-11-games/raw/main/docs/thunder/screenshot.gif,https://abagames.github.io/crisp-game-lib-11-games/?thunder,play,one_button
 CHARGE BEAM,https://github.com/abagames/crisp-game-lib-11-games/raw/main/docs/chargebeam/screenshot.gif,https://abagames.github.io/crisp-game-lib-11-games/?chargebeam,play,one_button
 LIGHT DARK,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/lightdark/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?lightdark,play,one_button
 IN TOW,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/intow/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?intow,play,one_button
