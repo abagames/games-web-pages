@@ -286,8 +286,13 @@ class="btn btn-primary my-2">${pageNames[t]}</a>
             <p class="lead text-muted">
               GitHub:
               <a href="https://github.com/abagames">abagames</a>
-              Twitter:
-              <a href="https://twitter.com/abagames">@abagames</a>
+              itch.io:
+              <a href="https://abagames.itch.io/">abagames</a>
+              <br>
+              Bluesky:
+              <a href="https://bsky.app/profile/abagames.bsky.social">@abagames.bsky.social</a>
+              X:
+              <a href="https://x.com/abagames">@abagames</a>
             </p>
             <h1 class="fw-light">${pageNames[type]} games</h1>
             <p>
