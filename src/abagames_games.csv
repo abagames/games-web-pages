@@ -13,6 +13,10 @@ Suzuri,https://www.asahi-net.or.jp/~cs8k-cyu/free/szrview/szr_s2.gif,https://www
 Masashikun Hi!,https://www.asahi-net.or.jp/~cs8k-cyu/free/masview/mas_kak_p.gif,https://www.asahi-net.or.jp/~cs8k-cyu/free/mas_e.html,detail,windows
 Mazer Mayhem,https://www.asahi-net.or.jp/~cs8k-cyu/xna/mm/mm_0.gif,https://www.asahi-net.or.jp/~cs8k-cyu/xna/mm/index_e.html,detail,windows
 GearToyGear,https://www.asahi-net.or.jp/~cs8k-cyu/xna/gtg/gtg_0_s.gif,https://www.asahi-net.or.jp/~cs8k-cyu/xna/gtg/index_e.html,detail,windows
+JUGGLING CHAIN,https://github.com/abagames/crisp-game-lib-12-games/raw/main/docs/jugglingchain/screenshot.gif,https://abagames.github.io/crisp-game-lib-12-games/?jugglingchain,play,one_button
+ELECTRON STREAM,https://github.com/abagames/crisp-game-lib-12-games/raw/main/docs/electronstream/screenshot.gif,https://abagames.github.io/crisp-game-lib-12-games/?electronstream,play,one_button
+THRUST STRAFE,https://github.com/abagames/crisp-game-lib-12-games/raw/main/docs/thruststrafe/screenshot.gif,https://abagames.github.io/crisp-game-lib-12-games/?thruststrafe,play,one_button
+DINO'S DESERT DASH,https://github.com/abagames/crisp-game-lib-12-games/raw/main/docs/dinos/screenshot.gif,https://abagames.github.io/crisp-game-lib-12-games/?dinos,play,one_button
 1x111,https://github.com/abagames/1x111/raw/main/docs/1x111.gif,https://abagames.itch.io/1x111,play,one_button
 PAKU PAKU,https://github.com/abagames/crisp-game-lib-11-games/raw/main/docs/pakupaku/screenshot.gif,https://abagames.itch.io/paku-paku,play,one_button
 THUNDER,https://github.com/abagames/crisp-game-lib-11-games/raw/main/docs/thunder/screenshot.gif,https://abagames.itch.io/thunder,play,one_button
@@ -34,6 +38,7 @@ ELASTIC HERO,https://github.com/abagames/claude-one-button-game-creation/raw/mai
 BLADE DANCER,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/bladedancer/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?bladedancer,play,one_button
 TORNADO TWISTER,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/tornadotwister/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?tornadotwister,play,one_button
 ROTATING TUNNEL,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/rotatingtunnel/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?rotatingtunnel,play,one_button
+JUMPINBOX,https://github.com/abagames/crisp-game-lib-12-games/raw/main/docs/jumpinbox/screenshot.gif,https://abagames.github.io/crisp-game-lib-12-games/?jumpinbox,play,one_button
 BOX SNAKE,https://github.com/abagames/crisp-game-lib-12-games/raw/main/docs/boxsnake/screenshot.gif,https://abagames.github.io/crisp-game-lib-12-games/?boxsnake,play,one_button
 GRAPPLING H,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/grapplingh/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?grapplingh,play,one_button
 STOMPING BUBBLES,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/stompingbubbles/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?stompingbubbles,play,one_button
