@@ -418,7 +418,7 @@ async function takeScreenshot(url, outputPath) {
     args: ["--no-sandbox", "--disable-setuid-sandbox"],
   });
   const page = await browser.newPage();
-  await page.setViewport({ width: 800, height: 800 });
+  await page.setViewport({ width: 800, height: 400 });
   try {
     await page.goto(url, { waitUntil: "networkidle0" });
     await new Promise((resolve) => setTimeout(resolve, 500));
