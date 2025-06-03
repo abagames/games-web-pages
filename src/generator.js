@@ -8,6 +8,8 @@ const pageFileNames = {
   browser: "browser.html",
   flash: "flash.html",
   misc: "misc.html",
+  about: "about.html",
+  about_ja: "about_ja.html",
 };
 const summaryImageFileNames = {
   all: "all.png",
@@ -16,6 +18,8 @@ const summaryImageFileNames = {
   browser: "browser.png",
   flash: "flash.png",
   misc: "misc.png",
+  about: "about.png",
+  about_ja: "about_ja.png",
 };
 const pageNames = {
   all: "All",
@@ -24,6 +28,8 @@ const pageNames = {
   browser: "Browser",
   flash: "Flash",
   misc: "Misc.",
+  about: "About Me",
+  about_ja: "About 私",
 };
 const LinkTypeNames = {
   detail: "Detail",
@@ -52,13 +58,60 @@ const platformNames = {
 /** @type { {title: string, imageUrl: string, linkUrl: string, linkType: string, platformName: string}[]} */
 let gameList;
 
-loadList();
-savePage("all");
-savePage("windows");
-savePage("one_button");
-savePage("browser");
-savePage("flash");
-savePage("misc");
+const puppeteer = require("puppeteer");
+const path = require("path");
+const http = require("http");
+const fs = require("fs");
+
+async function main() {
+  loadList();
+
+  const serverPort = 8089;
+  const server = await startLocalServer(
+    outputDirectory,
+    pageFileNames.all,
+    serverPort
+  );
+  console.log(`Local server started on http://localhost:${serverPort}`);
+
+  const generatedPageTypes = [
+    "all",
+    "windows",
+    "one_button",
+    "browser",
+    "flash",
+    "misc",
+  ];
+  const staticPageTypes = ["about", "about_ja"];
+  const allPageTypesForScreenshot = [...generatedPageTypes, ...staticPageTypes];
+
+  try {
+    // Generate dynamic pages first
+    for (const type of generatedPageTypes) {
+      console.log(`Generating page: ${type}`);
+      savePage(type);
+    }
+
+    // Then take screenshots for all pages
+    for (const type of allPageTypesForScreenshot) {
+      console.log(`Processing screenshot for page: ${type}`);
+      const screenshotUrl = `http://localhost:${serverPort}/${pageFileNames[type]}`;
+      const outputImagePath = path.resolve(
+        outputDirectory,
+        summaryImageFileNames[type]
+      );
+      await takeScreenshot(screenshotUrl, outputImagePath);
+      console.log(`Screenshot saved to ${outputImagePath}`);
+    }
+  } catch (error) {
+    console.error("Error during page generation or screenshot:", error);
+  } finally {
+    await new Promise((resolve) => server.close(resolve));
+    console.log("Local server stopped.");
+  }
+}
+
+main();
 
 function loadList() {
   const fs = require("fs");
@@ -216,16 +269,19 @@ function getPage(type) {
     .map((t) => {
       if (t === type) {
         return `
-<a href="#" class="btn btn-secondary my-2 disabled">${pageNames[t]}</a>
+<a href="#" class="btn btn-secondary m-1 disabled">${pageNames[t]}</a>
 `;
       } else {
         return `
-<a href="${baseUrl}${pageFileNames[t]}" 
-class="btn btn-primary my-2">${pageNames[t]}</a>
+<a href="${pageFileNames[t]}" 
+class="btn btn-primary m-1">${pageNames[t]}</a>
 `;
       }
     })
     .join("");
+  buttons += `
+<a href="about.html" class="btn btn-outline-primary m-1">About Me</a>
+`;
   return `
 <!DOCTYPE html>
 <html lang="en">
@@ -283,21 +339,12 @@ class="btn btn-primary my-2">${pageNames[t]}</a>
       <section class="py-3 text-center container">
         <div class="row py-lg-3">
           <div class="col-lg-6 col-md-8 mx-auto">
-            <p class="lead text-muted">
-              GitHub:
-              <a href="https://github.com/abagames">abagames</a>
-              itch.io:
-              <a href="https://abagames.itch.io/">abagames</a>
-              <br>
-              Bluesky:
-              <a href="https://bsky.app/profile/abagames.bsky.social">@abagames.bsky.social</a>
-              X:
-              <a href="https://x.com/abagames">@abagames</a>
-            </p>
             <h1 class="fw-light">${pageNames[type]} games</h1>
-            <p>
-              ${buttons}
-            </p>
+          </div>
+        </div>
+        <div class="container">
+          <div class="d-flex flex-wrap justify-content-center">            
+            ${buttons}
           </div>
         </div>
       </section>
@@ -313,4 +360,73 @@ class="btn btn-primary my-2">${pageNames[t]}</a>
   </body>
 </html>
 `;
+}
+
+function startLocalServer(directoryToServe, mainHtmlFile, port) {
+  const server = http.createServer((req, res) => {
+    let requestedPath = req.url === "/" ? mainHtmlFile : req.url;
+    let filePath = path.resolve(
+      directoryToServe,
+      decodeURIComponent(requestedPath.substring(1))
+    );
+
+    if (!filePath.startsWith(path.resolve(directoryToServe))) {
+      res.writeHead(403, { "Content-Type": "text/plain" });
+      res.end("403 Forbidden");
+      return;
+    }
+
+    fs.readFile(filePath, (error, content) => {
+      if (error) {
+        if (error.code === "ENOENT") {
+          res.writeHead(404, { "Content-Type": "text/plain" });
+          res.end("404 Not Found");
+        } else {
+          res.writeHead(500);
+          res.end(
+            "Sorry, check with the site admin for error: " +
+              error.code +
+              " ..\\n"
+          );
+        }
+      } else {
+        let contentType = "text/html";
+        if (filePath.endsWith(".css")) contentType = "text/css";
+        else if (filePath.endsWith(".js"))
+          contentType = "application/javascript";
+        else if (filePath.endsWith(".png")) contentType = "image/png";
+        else if (filePath.endsWith(".jpg") || filePath.endsWith(".jpeg"))
+          contentType = "image/jpeg";
+        res.writeHead(200, { "Content-Type": contentType });
+        res.end(content, "utf-8");
+      }
+    });
+  });
+
+  return new Promise((resolve, reject) => {
+    server.listen(port, (err) => {
+      if (err) {
+        return reject(err);
+      }
+      resolve(server);
+    });
+  });
+}
+
+async function takeScreenshot(url, outputPath) {
+  const browser = await puppeteer.launch({
+    args: ["--no-sandbox", "--disable-setuid-sandbox"],
+  });
+  const page = await browser.newPage();
+  await page.setViewport({ width: 800, height: 800 });
+  try {
+    await page.goto(url, { waitUntil: "networkidle0" });
+    await new Promise((resolve) => setTimeout(resolve, 500));
+    await page.screenshot({ path: outputPath });
+  } catch (e) {
+    console.error(`Error taking screenshot for ${url}:`, e);
+    throw e;
+  } finally {
+    await browser.close();
+  }
 }
