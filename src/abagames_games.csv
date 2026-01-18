@@ -15,10 +15,20 @@ Mazer Mayhem,https://www.asahi-net.or.jp/~cs8k-cyu/xna/mm/mm_0.gif,https://www.a
 GearToyGear,https://www.asahi-net.or.jp/~cs8k-cyu/xna/gtg/gtg_0_s.gif,https://www.asahi-net.or.jp/~cs8k-cyu/xna/gtg/index_e.html,detail,windows
 1x111,https://github.com/abagames/1x111/raw/main/docs/1x111.gif,https://abagames.itch.io/1x111,play,one_button
 PAKU PAKU,https://github.com/abagames/crisp-game-lib-11-games/raw/main/docs/pakupaku/screenshot.gif,https://abagames.itch.io/paku-paku,play,one_button
-MAGNETIC PENDULUM,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/magnetic_pendulum/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/magnetic_pendulum/dist/,play,one_button
-RICOCHET PINS,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/ricochet_pins/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/ricochet_pins/dist/,play,one_button
-ARC SPIN,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/arc_spin/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/arc_spin/dist/,play,one_button
-WIND RANG,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/wind_rang/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/wind_rang/dist/,play,one_button
+Zig-Zag Pressure,https://github.com/abagames/crisp-game-lib-12-games/raw/main/docs/zigzagpressure/screenshot.gif,https://abagames.github.io/crisp-game-lib-12-games/?zigzagpressure,play,one_button
+GRAVITY DRIFT,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/gravity-drift/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/gravity-drift/,play,one_button
+CLING HOP,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/-revised/cling-hop/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/-revised/?cling-hop,play,one_button
+DARK SORT,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/-revised/dark_sort/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/-revised/?dark_sort,play,one_button
+GEOERASE,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/-revised/geoerase/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/-revised/?geoerase,play,one_button
+GEYSER HOP,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/-revised/geyser-hop/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/-revised/?geyser-hop,play,one_button
+INKINH,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/-revised/inkinh/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/-revised/?inkinh",play,one_button
+MISSILE GUIDE,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/-revised/missile_guide/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/-revised/?missile_guide,play,one_button
+PHASERUN,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/-revised/phaserun/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/-revised/?phaserun,play,one_button
+PRESSBOUND,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/-revised/pressbound/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/-revised/?pressbound,play,one_button
+SPLITZIG,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/-revised/splitzig/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/-revised/?splitzig,play,one_button
+STAR EATER,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/-revised/star-eater/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/-revised/?star-eater,play,one_button
+STOMPSHELTER,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/-revised/stompshelter/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/-revised/?stompshelter,play,one_button
+WIPE BLADE,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/-revised/wipe-blade/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/-revised/?wipe-blade,play,one_button
 JUGGLING CHAIN,https://github.com/abagames/crisp-game-lib-12-games/raw/main/docs/jugglingchain/screenshot.gif,https://abagames.github.io/crisp-game-lib-12-games/?jugglingchain,play,one_button
 ELECTRON STREAM,https://github.com/abagames/crisp-game-lib-12-games/raw/main/docs/electronstream/screenshot.gif,https://abagames.github.io/crisp-game-lib-12-games/?electronstream,play,one_button
 THRUST STRAFE,https://github.com/abagames/crisp-game-lib-12-games/raw/main/docs/thruststrafe/screenshot.gif,https://abagames.github.io/crisp-game-lib-12-games/?thruststrafe,play,one_button
@@ -75,6 +85,10 @@ WINDOW WASHER,https://github.com/abagames/claude-one-button-game-creation/raw/ma
 TWIN JUMPERS,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/twinjumpers/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?twinjumpers,play,one_button
 ELASTIC HERO,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/elastichero/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?elastichero,play,one_button
 BLADE DANCER,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/bladedancer/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?bladedancer,play,one_button
+MAGNETIC PENDULUM,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/magnetic_pendulum/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/magnetic_pendulum/dist/,play,one_button
+RICOCHET PINS,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/ricochet_pins/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/ricochet_pins/dist/,play,one_button
+ARC SPIN,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/arc_spin/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/arc_spin/dist/,play,one_button
+WIND RANG,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/wind_rang/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/wind_rang/dist/,play,one_button
 TORNADO TWISTER,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/tornadotwister/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?tornadotwister,play,one_button
 ROTATING TUNNEL,https://github.com/abagames/claude-one-button-game-creation/raw/main/docs/rotatingtunnel/screenshot.gif,https://abagames.github.io/claude-one-button-game-creation/?rotatingtunnel,play,one_button
 JUMPINBOX,https://github.com/abagames/crisp-game-lib-12-games/raw/main/docs/jumpinbox/screenshot.gif,https://abagames.github.io/crisp-game-lib-12-games/?jumpinbox,play,one_button
