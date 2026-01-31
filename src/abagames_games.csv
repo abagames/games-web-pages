@@ -261,6 +261,7 @@ lineart,https://raw.githubusercontent.com/abagames/jsgame256/master/docs/lineart
 Blasnake,https://abagames.github.io/vibe-game-coding-testbed/screenshots/blasnake_screenshot.gif,https://abagames.itch.io/blasnake,detail,browser
 Labyracer,https://abagames.github.io/vibe-game-coding-testbed/screenshots/labyracer.gif,https://abagames.itch.io/labyracer,detail,browser
 Hopway,https://abagames.github.io/vibe-game-coding-testbed/screenshots/hopway.gif,https://abagames.github.io/vibe-game-coding-testbed/hopway/,play,browser
+1x111,https://github.com/abagames/1x111/raw/main/docs/1x111.gif,https://abagames.itch.io/1x111,detail,browser
 C NODES,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/cnodes/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?cnodes,play,browser
 B BLAST,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/bblast/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?bblast,play,browser
 PAIRS DROP,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/pairsdrop/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?pairsdrop,play,browser
@@ -338,8 +339,8 @@ ROW LEFT RIGHT,https://www.asahi-net.or.jp/~cs8k-cyu/blog/images/rlr_capture.gif
 BOUNCE RISE,https://www.asahi-net.or.jp/~cs8k-cyu/blog/images/br_capture.gif,https://abagames.sakura.ne.jp/html5/br/,play,browser
 ITEMS FOR YOU AND ME,https://www.asahi-net.or.jp/~cs8k-cyu/blog/images/ifym_capture.gif,https://abagames.sakura.ne.jp/html5/ifym/,play,browser
 IN AND OUT,https://www.asahi-net.or.jp/~cs8k-cyu/blog/images/iao_capture.gif,https://abagames.sakura.ne.jp/html5/iao/,play,browser
-SNAKE SHIFT,https://camo.githubusercontent.com/c1a5d353b317814999771611ec2373a79d3ec89088cff40a7ce0391904f1182f/687474703a2f2f61626167616d65732e73616b7572612e6e652e6a702f31382f736e616b652d73686966742f73637265656e73686f742e676966,https://snake-shift.glitch.me/,play,browser
-DARUMATRON,https://abagames.github.io/darumatron/screenshot.gif,https://darumatron.glitch.me/,play,browser
+SNAKE SHIFT,https://www.asahi-net.or.jp/~cs8k-cyu/img/snake-shift.gif,https://github.com/abagames/snake-shift,detail,browser
+DARUMATRON,https://abagames.github.io/darumatron/screenshot.gif,https://github.com/abagames/darumatron,detail,browser
 snowdrop,https://raw.githubusercontent.com/abagames/jsgame256/master/docs/snowdrop.png,https://abagames.github.io/jsgame256/snowdrop.html,play,browser
 fallingboot,https://raw.githubusercontent.com/abagames/jsgame256/master/docs/fallingboot.png,https://abagames.github.io/jsgame256/fallingboot.html,play,browser
 boxpress,https://raw.githubusercontent.com/abagames/jsgame256/master/docs/boxpress.png,https://abagames.github.io/jsgame256/boxpress.html,play,browser
@@ -463,7 +464,6 @@ Joys of Small Game Development,https://abagames.github.io/joys-of-small-game-dev
 crisp-game-lib,https://raw.githubusercontent.com/abagames/crisp-game-lib-11-games/main/docs/thunder/screenshot.gif,https://github.com/abagames/crisp-game-lib,detail,misc
 crisp-game-lib-portable,https://raw.githubusercontent.com/abagames/crisp-game-lib-portable/main/docs/screenshotM5StickCPlus.gif,https://github.com/abagames/crisp-game-lib-portable,detail,misc
 PEEKPOKE,https://raw.githubusercontent.com/abagames/peekpoke/main/docs/screenshot.gif,https://github.com/abagames/peekpoke,detail,misc
-1x111,https://github.com/abagames/1x111/raw/main/docs/1x111.gif,https://abagames.itch.io/1x111,detail,misc
 BulletML,https://www.asahi-net.or.jp/~cs8k-cyu/bulletml/bulletml1.gif,https://www.asahi-net.or.jp/~cs8k-cyu/bulletml/index_e.html,detail,misc
 Bulletsmorph,https://www.asahi-net.or.jp/~cs8k-cyu/bulletml/bulletsmorph/bm1.gif,https://www.asahi-net.or.jp/~cs8k-cyu/bulletml/bulletsmorph/index_e.html,detail,misc
 STGL,https://www.asahi-net.or.jp/~cs8k-cyu/blog/images/stgl-demo.png,https://github.com/abagames/stgldemo,detail,misc
@@ -497,7 +497,7 @@ The Kibasen,https://www.asahi-net.or.jp/~cs8k-cyu/free/kiview/kiba3.gif,https://
 SPRINGING TREE,https://www.asahi-net.or.jp/~cs8k-cyu/img/springing_tree.png,undefined,detail,petitcom
 BOUNCY BALLS,https://www.asahi-net.or.jp/~cs8k-cyu/img/bouncy_balls.png,undefined,detail,petitcom
 ROBOT SWARM,https://www.asahi-net.or.jp/~cs8k-cyu/img/robot_swarm.png,undefined,detail,petitcom
-pongpector,https://camo.githubusercontent.com/8cef8b89398c9fdb06e9d5f549f028e05eead0f41b0173ce1129254159bff773/687474703a2f2f61626167616d65732e73616b7572612e6e652e6a702f31362f706f6e67706563746f722f73637265656e73686f742e676966,https://github.com/abagames/pongpector,detail,unity
+pongpector,https://www.asahi-net.or.jp/~cs8k-cyu/img/pongpector.gif,https://github.com/abagames/pongpector,detail,unity
 PixelArtGen,https://abagames.github.io/pixel-art-gen/ships.gif,https://github.com/abagames/PixelArtGen,detail,unity
 Urban Drivin',https://www.asahi-net.or.jp/~cs8k-cyu/i/urbandrivin1.gif,https://www.asahi-net.or.jp/~cs8k-cyu//i/index_pc.html,detail,i_appli
 3d dokei,https://www.asahi-net.or.jp/~cs8k-cyu/i/cameraclock1.gif,https://www.asahi-net.or.jp/~cs8k-cyu//i/index_pc.html,detail,i_appli
