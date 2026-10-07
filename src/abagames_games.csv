@@ -14,6 +14,8 @@ Masashikun Hi!,https://www.asahi-net.or.jp/~cs8k-cyu/free/masview/mas_kak_p.gif,
 Mazer Mayhem,https://www.asahi-net.or.jp/~cs8k-cyu/xna/mm/mm_0.gif,https://www.asahi-net.or.jp/~cs8k-cyu/xna/mm/index_e.html,detail,windows
 GearToyGear,https://www.asahi-net.or.jp/~cs8k-cyu/xna/gtg/gtg_0_s.gif,https://www.asahi-net.or.jp/~cs8k-cyu/xna/gtg/index_e.html,detail,windows
 PAKU PAKU,https://github.com/abagames/crisp-game-lib-11-games/raw/main/docs/pakupaku/screenshot.gif,https://abagames.itch.io/paku-paku,detail,one_button
+ZIG SABER,https://github.com/abagames/agentic-gamedev-games/raw/main/docs/zig-saber/screenshot.gif,https://abagames.github.io/agentic-gamedev-games/zig-saber/,play,one_button
+BLINK SCOPE,https://github.com/abagames/agentic-gamedev-games/raw/main/docs/blink-scope/screenshot.gif,https://abagames.github.io/agentic-gamedev-games/blink-scope/,play,one_button
 THUNDER,https://github.com/abagames/crisp-game-lib-11-games/raw/main/docs/thunder/screenshot.gif,https://abagames.itch.io/thunder,detail,one_button
 IN TOW,https://github.com/abagames/crisp-game-lib-games/raw/main/docs/intow/screenshot.gif,https://abagames.github.io/crisp-game-lib-games/?intow,play,one_button
 JUGGLING CHAIN,https://github.com/abagames/crisp-game-lib-12-games/raw/main/docs/jugglingchain/screenshot.gif,https://abagames.github.io/crisp-game-lib-12-games/?jugglingchain,play,one_button
@@ -258,6 +260,13 @@ MAZTIC,https://github.com/abagames/petit-game-lib/raw/master/docs/screenshots/ma
 springcar,https://raw.githubusercontent.com/abagames/jsgame256/master/docs/springcar.png,https://abagames.github.io/jsgame256/springcar.html,play,one_button
 inoutcar,https://raw.githubusercontent.com/abagames/jsgame256/master/docs/inoutcar.png,https://abagames.github.io/jsgame256/inoutcar.html,play,one_button
 lineart,https://raw.githubusercontent.com/abagames/jsgame256/master/docs/lineart.png,https://abagames.github.io/jsgame256/lineart.html,play,one_button
+OVERTURN,https://github.com/abagames/agentic-gamedev-games/raw/main/docs/overturn/screenshot.gif,https://abagames.github.io/agentic-gamedev-games/overturn/,play,browser
+HEAD RUSH,https://github.com/abagames/agentic-gamedev-games/raw/main/docs/head-rush/screenshot.gif,https://abagames.github.io/agentic-gamedev-games/head-rush/,play,browser
+TWIN VECTOR,https://github.com/abagames/agentic-gamedev-games/raw/main/docs/twin-vector/screenshot.gif,https://abagames.github.io/agentic-gamedev-games/twin-vector/,play,browser
+UNDERTOW,https://github.com/abagames/agentic-gamedev-games/raw/main/docs/undertow/screenshot.gif,https://abagames.github.io/agentic-gamedev-games/undertow/,play,browser
+WRECKFALL,https://github.com/abagames/agentic-gamedev-games/raw/main/docs/wreckfall/screenshot.gif,https://abagames.itch.io/wreckfall,detail,browser
+SKYHAUL,https://github.com/abagames/agentic-gamedev-games/raw/main/docs/skyhaul/screenshot.gif,https://abagames.github.io/agentic-gamedev-games/skyhaul/,play,browser
+DRAFT LINE,https://github.com/abagames/agentic-gamedev-games/raw/main/docs/draft-line/screenshot.gif,https://abagames.itch.io/draft-line,detail,browser
 Blasnake,https://abagames.github.io/vibe-game-coding-testbed/screenshots/blasnake_screenshot.gif,https://abagames.itch.io/blasnake,detail,browser
 1x111,https://github.com/abagames/1x111/raw/main/docs/1x111.gif,https://abagames.itch.io/1x111,detail,browser
 Warp Chase Holdline,https://github.com/abagames/ai-builds-games-humans-refine/raw/main/docs/games/warp-chase-holdline/screenshot.gif,https://abagames.github.io/ai-builds-games-humans-refine/games/warp-chase-holdline/build/web/index.html,play,browser
